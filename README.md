@@ -1,7 +1,7 @@
  UTEQ Sensor Monitor
 
 Aplicación web desarrollada con **React, Vite y Firebase Realtime Database** para visualizar datos simulados de sensores ambientales instalados en diferentes zonas del campus La María de la Universidad Técnica Estatal de Quevedo (UTEQ).
-<img src="./public/Captura.png" alt="Captura del proyecto" width="800">
+<img src="./Public/Captura.png" alt="Captura del proyecto" width="800">
 ## ¿Para qué sirve esta práctica?
 
 Esta práctica permite comprender cómo se construye un sistema básico de monitoreo IoT. Su finalidad es mostrar, desde una página web, la información enviada por distintos sensores y almacenada en una base de datos en tiempo real.
